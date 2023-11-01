@@ -3,20 +3,20 @@
 ## Action
 
 ### URL
-LinkBehaviour_96694F22_8789_C984_41CB_2754CD84A719.source = https://api.whatsapp.com/send?phone=5522999446960&text=Ol%C3%A1!!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Zooloja%20do%20Boulevard%20Shopping
 LinkBehaviour_69945047_737F_6A59_41C3_6732D28CE059.source = https://api.whatsapp.com/send?phone=5522999446960&text=Ol%C3%A1!!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Zooloja%20do%20Boulevard%20Shopping
+LinkBehaviour_98ADEE54_8B48_0968_41E0_1540AFF6519C.source = https://api.whatsapp.com/send?phone=5522999446960&text=Ol%C3%A1!!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Zooloja%20do%20Boulevard%20Shopping
 WebFrame_A2A006DE_86B1_75A4_41C4_D4E62CE6C64D_mobile.url = https://maps.google.com/?cid=877191600913069888
 WebFrame_A2A006DE_86B1_75A4_41C4_D4E62CE6C64D.url = https://maps.google.com/?cid=877191600913069888
-LinkBehaviour_966BFF22_8789_C984_41D4_39888C924621.source = https://maps.google.com/?cid=877191600913069888
 LinkBehaviour_6960161A_737F_69EA_41CC_36E0D117AB60.source = https://maps.google.com/?cid=877191600913069888
+LinkBehaviour_98B19E54_8B48_0968_41D5_B9B787AE3448.source = https://maps.google.com/?cid=877191600913069888
+LinkBehaviour_98AF3E54_8B48_0968_41CC_5B4106EC0AAF.source = https://www.instagram.com/zoolojapetshop/
 LinkBehaviour_680D2B83_7361_BEDA_41AB_187EC3271372.source = https://www.instagram.com/zoolojapetshop/
-LinkBehaviour_966B8F22_8789_C984_418F_A631EA757666.source = https://www.instagram.com/zoolojapetshop/
 WebFrame_24A338BD_8120_62D4_41D4_110ED4F039F9_mobile.url = //www.youtube.com/embed/BLisA8zYphs
 WebFrame_24A338BD_8120_62D4_41D4_110ED4F039F9.url = //www.youtube.com/embed/BLisA8zYphs
 WebFrame_A040CDAB_86B3_77EC_41C7_28A9F28EC250_mobile.url = https://zoolojapet.com.br/
-LinkBehaviour_595B5423_78CB_A692_41CF_2F4922747F03.source = https://zoolojapet.com.br/
+LinkBehaviour_98AC8E54_8B48_0968_41DA_68850CEA8462.source = https://zoolojapet.com.br/
 WebFrame_A040CDAB_86B3_77EC_41C7_28A9F28EC250.url = https://zoolojapet.com.br/
-LinkBehaviour_966A0F31_8789_C987_41D4_EFBA9FA1037B.source = https://zoolojapet.com.br/
+LinkBehaviour_595B5423_78CB_A692_41CF_2F4922747F03.source = https://zoolojapet.com.br/
 
 ## Media
 
@@ -48,8 +48,8 @@ panorama_78C5C8BA_77C0_156D_41CF_EA6CF50E5801.label = RAÇÕES IMPORTADAS E ACES
 panorama_78C6BF6C_77C0_2BE4_41B4_28A6368C55AA.label = RAÇÕES NACIONAIS
 
 ### Video
-videolevel_98CF0AB2_8AC1_C484_41CB_062E3DCE382A.posterURL = media/video_980E3777_8ADE_CD8D_41C2_F009B8D7BD85_poster_pt.jpg
-videolevel_98CF0AB2_8AC1_C484_41CB_062E3DCE382A.url = media/video_980E3777_8ADE_CD8D_41C2_F009B8D7BD85_pt.mp4
+videolevel_9D98F12A_8BF3_0929_41D5_13E9087E63ED.posterURL = media/video_980E3777_8ADE_CD8D_41C2_F009B8D7BD85_poster_pt.jpg
+videolevel_9D98F12A_8BF3_0929_41D5_13E9087E63ED.url = media/video_980E3777_8ADE_CD8D_41C2_F009B8D7BD85_pt.mp4
 
 ## Skin
 
