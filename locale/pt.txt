@@ -3,20 +3,20 @@
 ## Action
 
 ### URL
-LinkBehaviour_9F92002B_807B_F943_4194_06E51441B411.source = https://api.whatsapp.com/send?phone=5522999446960&text=Ol%C3%A1!!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Zooloja%20do%20Boulevard%20Shopping
+LinkBehaviour_96694F22_8789_C984_41CB_2754CD84A719.source = https://api.whatsapp.com/send?phone=5522999446960&text=Ol%C3%A1!!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Zooloja%20do%20Boulevard%20Shopping
 LinkBehaviour_69945047_737F_6A59_41C3_6732D28CE059.source = https://api.whatsapp.com/send?phone=5522999446960&text=Ol%C3%A1!!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Zooloja%20do%20Boulevard%20Shopping
 WebFrame_A2A006DE_86B1_75A4_41C4_D4E62CE6C64D_mobile.url = https://maps.google.com/?cid=877191600913069888
 WebFrame_A2A006DE_86B1_75A4_41C4_D4E62CE6C64D.url = https://maps.google.com/?cid=877191600913069888
-LinkBehaviour_9F92B02E_807B_F945_41D0_C15DBEA02674.source = https://maps.google.com/?cid=877191600913069888
+LinkBehaviour_966BFF22_8789_C984_41D4_39888C924621.source = https://maps.google.com/?cid=877191600913069888
 LinkBehaviour_6960161A_737F_69EA_41CC_36E0D117AB60.source = https://maps.google.com/?cid=877191600913069888
 LinkBehaviour_680D2B83_7361_BEDA_41AB_187EC3271372.source = https://www.instagram.com/zoolojapetshop/
-LinkBehaviour_9F90B02C_807B_F945_41D6_520CCE118C86.source = https://www.instagram.com/zoolojapetshop/
+LinkBehaviour_966B8F22_8789_C984_418F_A631EA757666.source = https://www.instagram.com/zoolojapetshop/
 WebFrame_24A338BD_8120_62D4_41D4_110ED4F039F9_mobile.url = //www.youtube.com/embed/BLisA8zYphs
 WebFrame_24A338BD_8120_62D4_41D4_110ED4F039F9.url = //www.youtube.com/embed/BLisA8zYphs
 WebFrame_A040CDAB_86B3_77EC_41C7_28A9F28EC250_mobile.url = https://zoolojapet.com.br/
 LinkBehaviour_595B5423_78CB_A692_41CF_2F4922747F03.source = https://zoolojapet.com.br/
 WebFrame_A040CDAB_86B3_77EC_41C7_28A9F28EC250.url = https://zoolojapet.com.br/
-LinkBehaviour_9F90C02F_807B_F943_41D3_1B4A427B9035.source = https://zoolojapet.com.br/
+LinkBehaviour_966A0F31_8789_C987_41D4_EFBA9FA1037B.source = https://zoolojapet.com.br/
 
 ## Media
 
@@ -41,17 +41,15 @@ panorama_78C5BDFC_77C0_EEE4_41D1_E358D5856986.label = ACESSÓRIOS
 panorama_78BD3494_77C0_1D25_41D3_9EB014707409.label = ENTRADA
 panorama_78C6912F_77C0_7764_41DB_748D0AD2CEF8.label = FARMÁCIA PET E PRODUTOS VETERINÁRIOS
 panorama_78C6A32D_77C0_1B64_41C6_19F06EF6712F.label = HIGIENE, PERFUMARIA E ACESSÓRIOS
-video_A35D6008_8081_1C9A_41B7_4B1390D0DBAF.label = Introdução
+video_980E3777_8ADE_CD8D_41C2_F009B8D7BD85.label = Introdução ZOOLOJA teste HD
 panorama_78C50BD2_77C0_EB3C_41DC_5A9D193E808F.label = PETS E ACESSÓRIOS
 panorama_78C46297_77C0_1524_41D9_A71295B4BF40.label = RAÇÕES ESPECIAIS, HIGIENE E PERFUMARIA
 panorama_78C5C8BA_77C0_156D_41CF_EA6CF50E5801.label = RAÇÕES IMPORTADAS E ACESSÓRIOS
 panorama_78C6BF6C_77C0_2BE4_41B4_28A6368C55AA.label = RAÇÕES NACIONAIS
 
 ### Video
-videolevel_8A74B8A6_8540_488C_41BB_75A965E79F85.posterURL = media/video_A35D6008_8081_1C9A_41B7_4B1390D0DBAF_poster_pt.jpg
-videolevel_950A89D5_8543_C88C_41BE_DA0C0EC42ABE.posterURL = media/video_A35D6008_8081_1C9A_41B7_4B1390D0DBAF_poster_pt.jpg
-videolevel_8A74B8A6_8540_488C_41BB_75A965E79F85.url = media/video_A35D6008_8081_1C9A_41B7_4B1390D0DBAF_pt.m3u8
-videolevel_950A89D5_8543_C88C_41BE_DA0C0EC42ABE.url = media/video_A35D6008_8081_1C9A_41B7_4B1390D0DBAF_pt.mp4
+videolevel_98CF0AB2_8AC1_C484_41CB_062E3DCE382A.posterURL = media/video_980E3777_8ADE_CD8D_41C2_F009B8D7BD85_poster_pt.jpg
+videolevel_98CF0AB2_8AC1_C484_41CB_062E3DCE382A.url = media/video_980E3777_8ADE_CD8D_41C2_F009B8D7BD85_pt.mp4
 
 ## Skin
 
@@ -400,7 +398,7 @@ HTMLText_FDCD099E_83E0_A2D5_41DD_87B1CD0B6B56_mobile.html = <div style="text-ali
 HTMLText_DFA90600_8320_A1AD_419C_617C6E15AB70.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.85185185185185vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#5dbbc2;font-size:1.85vmin;font-family:'Montserrat Medium';">PRICE:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7037037037037046vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.7vmin;font-family:'Montserrat Light';">$</SPAN><SPAN STYLE="color:#ffffff;font-size:3.7vmin;font-family:'Montserrat Extra Bold';">390,000</SPAN></SPAN></DIV></div>
 HTMLText_FDCD099E_83E0_A2D5_41DD_87B1CD0B6B56.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.85185185185185vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#5dbbc2;font-size:1.85vmin;font-family:'Montserrat Medium';">PRICE:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7037037037037046vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.7vmin;font-family:'Montserrat Light';">$</SPAN><SPAN STYLE="color:#ffffff;font-size:3.7vmin;font-family:'Montserrat Extra Bold';">390,000</SPAN></SPAN></DIV></div>
 HTMLText_DFA90600_8320_A1AD_419C_617C6E15AB70_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.85185185185185vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#5dbbc2;font-size:1.85vmin;font-family:'Montserrat Medium';">PRICE:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7037037037037046vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.7vmin;font-family:'Montserrat Light';">$</SPAN><SPAN STYLE="color:#ffffff;font-size:3.7vmin;font-family:'Montserrat Extra Bold';">390,000</SPAN></SPAN></DIV></div>
-HTMLText_DBD9A2D5_CB8F_E270_41CC_B50330D65B1D_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 1px 4px rgba(0,0,0,0.5);text-align:left;font-size:4.5197740112994325vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f9c407;font-size:4.52vmin;font-family:'Montserrat Extra Bold';"><B>{{title}}</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 1px 4px rgba(0,0,0,0.5);text-align:left;font-size:1.8079096045197725vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.81vmin;font-family:'Montserrat Medium';">{{subtitle}}</SPAN></SPAN></DIV></div>
+HTMLText_DBD9A2D5_CB8F_E270_41CC_B50330D65B1D_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 1px 4px rgba(0,0,0,0.5);text-align:left;font-size:4.5197740112994325vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f9c407;font-size:4.52vmin;font-family:'Montserrat Extra Bold';"><B>{{title}}</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 1px 4px rgba(0,0,0,0.5);text-align:left;font-size:2.7777777777777777vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.78vmin;font-family:'Montserrat Medium';">{{su</SPAN><SPAN STYLE="color:#ffffff;font-size:1.81vmin;font-family:'Montserrat Medium';">btitle}}</SPAN></SPAN></DIV></div>
 HTMLText_DBD9A2D5_CB8F_E270_41CC_B50330D65B1D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 2px 8px rgba(0,0,0,0.5);text-align:left;font-size:4.5197740112994325vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f9c407;font-size:4.52vmin;font-family:'Montserrat Extra Bold';"><B>{{title}}</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 2px 8px rgba(0,0,0,0.5);text-align:left;font-size:1.8079096045197725vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.81vmin;font-family:'Montserrat Medium';">{{subtitle}}</SPAN></SPAN></DIV></div>
 
 ## Tour
