@@ -3,32 +3,32 @@
 ## Action
 
 ### URL
-LinkBehaviour_DFCDBBE4_8D9D_2833_41B0_8075476A6D43.source = https://api.whatsapp.com/send?phone=5522999446960&text=Ol%C3%A1!!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Zooloja%20Boulevard%20Shopping.
 LinkBehaviour_CEC04FEC_8D8E_E831_41CD_EDBA2B4F8197.source = https://api.whatsapp.com/send?phone=5522999446960&text=Ol%C3%A1!!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Zooloja%20Boulevard%20Shopping.
-LinkBehaviour_DFCB7BC5_8D9D_2872_41E0_C213CEDD6B50.source = https://g.page/?share
+LinkBehaviour_DFCDBBE4_8D9D_2833_41B0_8075476A6D43.source = https://api.whatsapp.com/send?phone=5522999446960&text=Ol%C3%A1!!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Zooloja%20Boulevard%20Shopping.
 LinkBehaviour_AA4FA96C_86D6_FF64_419A_C39A2104DB18.source = https://g.page/?share
+LinkBehaviour_DFCB7BC5_8D9D_2872_41E0_C213CEDD6B50.source = https://g.page/?share
 WebFrame_A2A006DE_86B1_75A4_41C4_D4E62CE6C64D.url = https://maps.google.com/maps?output=embed&center=-21.7532619,-41.3427199&z=17&q=Zooloja+Boulevard+Shopping
 WebFrame_A2A006DE_86B1_75A4_41C4_D4E62CE6C64D_mobile.url = https://maps.google.com/maps?output=embed&center=-21.7532619,-41.3427199&z=17&q=Zooloja+Boulevard+Shopping
-LinkBehaviour_A9DF3EE8_86D1_756D_41C9_5C199BFCA1F4.source = https://www.facebook.com/loremipsum
 LinkBehaviour_DFCAEBC7_8D9D_287E_41C3_E6BF47ED1B80.source = https://www.facebook.com/loremipsum
-LinkBehaviour_A886B97A_86DE_DF6C_41B4_C84E1DCF591C.source = https://www.instagram.com/loremipsum
+LinkBehaviour_A9DF3EE8_86D1_756D_41C9_5C199BFCA1F4.source = https://www.facebook.com/loremipsum
 LinkBehaviour_DFCB8BCB_8D9D_2876_41D4_95DA3413DE3B.source = https://www.instagram.com/loremipsum
-LinkBehaviour_DFCD8BE4_8D9D_2832_41E1_09296E43CC2D.source = https://www.instagram.com/zoolojapetshop/
+LinkBehaviour_A886B97A_86DE_DF6C_41B4_C84E1DCF591C.source = https://www.instagram.com/loremipsum
 LinkBehaviour_CE0D489F_8D8D_280F_41BD_6196D9AD2CF6.source = https://www.instagram.com/zoolojapetshop/
-LinkBehaviour_A8F66727_86DE_D4E3_41DD_CD2445CD042C.source = https://www.linkedin.com/loremipsum
+LinkBehaviour_DFCD8BE4_8D9D_2832_41E1_09296E43CC2D.source = https://www.instagram.com/zoolojapetshop/
 LinkBehaviour_DFCA6BC9_8D9D_2872_41D0_E4484575FB5E.source = https://www.linkedin.com/loremipsum
-LinkBehaviour_DFCBEBCC_8D9D_2872_41CF_9AF6ACEB401D.source = https://www.pinterest.com/loremipsum
+LinkBehaviour_A8F66727_86DE_D4E3_41DD_CD2445CD042C.source = https://www.linkedin.com/loremipsum
 LinkBehaviour_A8877BF7_86DE_D364_41CB_9FA8275956AC.source = https://www.pinterest.com/loremipsum
-LinkBehaviour_B6AE554C_86DE_D4A4_4184_112CFBD00111.source = https://www.twittercom/loremipsum
+LinkBehaviour_DFCBEBCC_8D9D_2872_41CF_9AF6ACEB401D.source = https://www.pinterest.com/loremipsum
 LinkBehaviour_DFCA2BC8_8D9D_2872_41D0_EB36A1FD4624.source = https://www.twittercom/loremipsum
+LinkBehaviour_B6AE554C_86DE_D4A4_4184_112CFBD00111.source = https://www.twittercom/loremipsum
 WebFrame_24A338BD_8120_62D4_41D4_110ED4F039F9.url = //www.youtube.com/embed/BLisA8zYphs
 WebFrame_24A338BD_8120_62D4_41D4_110ED4F039F9_mobile.url = //www.youtube.com/embed/BLisA8zYphs
 WebFrame_A040CDAB_86B3_77EC_41C7_28A9F28EC250.url = https://zoolojapet.com.br/
 WebFrame_A040CDAB_86B3_77EC_41C7_28A9F28EC250_mobile.url = https://zoolojapet.com.br/
-LinkBehaviour_DFCB2BC4_8D9D_2872_41D8_61BF5D584D90.source = mailto: lorem@ipsum.com
 LinkBehaviour_A8C367DF_86F1_D3A4_41A1_DF993AC21B46.source = mailto: lorem@ipsum.com
-LinkBehaviour_AA56F6C4_86F2_B5A5_41CA_485A44846DD5.source = tel: +34 666 777 888
+LinkBehaviour_DFCB2BC4_8D9D_2872_41D8_61BF5D584D90.source = mailto: lorem@ipsum.com
 LinkBehaviour_DFCB4BC3_8D9D_2876_41AD_CC2646C75E75.source = tel: +34 666 777 888
+LinkBehaviour_AA56F6C4_86F2_B5A5_41CA_485A44846DD5.source = tel: +34 666 777 888
 
 ## Media
 
@@ -60,10 +60,10 @@ panorama_78C5C8BA_77C0_156D_41CF_EA6CF50E5801.label = RAÇÕES IMPORTADAS E ACES
 panorama_78C6BF6C_77C0_2BE4_41B4_28A6368C55AA.label = RAÇÕES NACIONAIS
 
 ### Video
-videolevel_8D4632BC_9027_A3D7_41AD_E3F95EF2E5CC.posterURL = media/video_D92EE5E5_8D96_F832_41CA_07B33C9DCE0F_poster_pt.jpg
-videolevel_8C73D995_9024_A1D1_41D5_0C2AE46CC21F.posterURL = media/video_D92EE5E5_8D96_F832_41CA_07B33C9DCE0F_poster_pt.jpg
-videolevel_8C73D995_9024_A1D1_41D5_0C2AE46CC21F.url = media/video_D92EE5E5_8D96_F832_41CA_07B33C9DCE0F_pt.m3u8
-videolevel_8D4632BC_9027_A3D7_41AD_E3F95EF2E5CC.url = media/video_D92EE5E5_8D96_F832_41CA_07B33C9DCE0F_pt.mp4
+videolevel_9E4CE676_90C7_592F_41D4_D1F81B000766.posterURL = media/video_D92EE5E5_8D96_F832_41CA_07B33C9DCE0F_poster_pt.jpg
+videolevel_9FA32C4F_90C1_E97E_41DB_1B646B5E8CEF.posterURL = media/video_D92EE5E5_8D96_F832_41CA_07B33C9DCE0F_poster_pt.jpg
+videolevel_9E4CE676_90C7_592F_41D4_D1F81B000766.url = media/video_D92EE5E5_8D96_F832_41CA_07B33C9DCE0F_pt.m3u8
+videolevel_9FA32C4F_90C1_E97E_41DB_1B646B5E8CEF.url = media/video_D92EE5E5_8D96_F832_41CA_07B33C9DCE0F_pt.mp4
 
 ## Skin
 
