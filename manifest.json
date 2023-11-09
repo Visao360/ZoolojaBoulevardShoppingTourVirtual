@@ -1,8 +1,7 @@
 {
- "theme_color": "#F9C407",
  "name": "ZOOLOJA Boulevard Shopping",
- "background_color": "#F9C407",
  "display": "fullscreen",
+ "background_color": "#F9C407",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
+ "theme_color": "#F9C407",
  "start_url": "index.htm?installed=true"
 }
